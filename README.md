@@ -89,4 +89,3 @@
 
 ## 💙 Thanks for Visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A2F,100:112240&height=120&section=footer" />
