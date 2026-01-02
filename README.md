@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Detunu Wijeratne</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;UI%2FUX+Designer;Android+App+Developer;AI-Vibe+Coder;Tech+Creator" />
 </p>
 
-
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🎓 2nd Year Software Engineering student at **SLIIT**
 - 💻 Interested in **Web Development, Mobile Apps & UI/UX**
 - 🚀 Building real-world projects using **MERN & Android**
@@ -15,42 +15,53 @@
 
 ---
 
-### 🛠️ Tech Stack
-**Languages**
-- JavaScript | Java | Kotlin | Python
+## 🛠️ Tech Arsenal
 
-**Frontend**
-- React | HTML | CSS | Tailwind
+### 💻 Languages
+- JavaScript
+- Java
+- Kotlin
+- Python
 
-**Backend**
-- Node.js | Express
+### 🎨 Frontend Development
+- React
+- HTML5
+- CSS3
+- Tailwind CSS
 
-**Mobile**
-- Android (Kotlin)
+### ⚙️ Backend & Database
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Firebase
 
-**Database**
-- MongoDB | MySQL | Firebase
-
-**Tools**
-- Git | GitHub | Figma | VS Code | Android Studio
+### 🔧 Tools & Platforms
+- Git & GitHub
+- Figma
+- VS Code
+- Android Studio
+- Postman
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
+
 🔹 **TNR Steel ERP System**  
 > ERP solution with inventory, sales & reporting modules  
-Tech: MERN Stack
+**Tech:** MERN Stack
 
 🔹 **Personal Wellness & Daily Health Tracker (Android App)**  
 > Habit, mood & hydration tracking mobile app  
-Tech: Kotlin, Firebase
+**Tech:** Kotlin, Firebase
 
 🔹 **AI Content & Media Projects**  
 > AI-generated visuals, videos & dashboards
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=detunu-wijeratne&show_icons=true&theme=tokyonight" />
 </p>
@@ -61,11 +72,26 @@ Tech: Kotlin, Firebase
 
 ---
 
-### 🌐 Connect With Me
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=detunu-wijeratne&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
 - 📧 Email: detunuw07@email.com
 - 🌍 Portfolio: coming soon
 
 ---
 
-⭐ **Feel free to explore my repositories and projects**
+## 💙 Thanks for Visiting!
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad."</i><br/>
+  — Cory House
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A2F,100:112240&height=120&section=footer" />
