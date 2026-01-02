@@ -17,8 +17,30 @@
 
 ## 🛠️ Tech Arsenal
 
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,kotlin,python,react,html,css,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,figma,vscode,androidstudio,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,java,kotlin,python&perline=6" />
+</p>
+
+---
+
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=6" />
+</p>
+
+---
+
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=6" />
+</p>
+
+---
+
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,postman&perline=6" />
 </p>
 
 ---
