@@ -81,8 +81,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: detunuw07@email.com
+- 💼 LinkedIn: www.linkedin.com/in/detunu-wijeratne-268a28212
+- 📧 Email: detunuw07@gmail.com
 - 🌍 Portfolio: coming soon
 
 ---
