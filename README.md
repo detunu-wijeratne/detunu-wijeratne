@@ -17,31 +17,9 @@
 
 ## 🛠️ Tech Arsenal
 
-### 💻 Languages
-- JavaScript
-- Java
-- Kotlin
-- Python
-
-### 🎨 Frontend Development
-- React
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### ⚙️ Backend & Database
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Firebase
-
-### 🔧 Tools & Platforms
-- Git & GitHub
-- Figma
-- VS Code
-- Android Studio
-- Postman
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,kotlin,python,react,html,css,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,figma,vscode,androidstudio,postman&perline=9" />
+</p>
 
 ---
 
